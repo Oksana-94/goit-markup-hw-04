@@ -305,6 +305,10 @@ ul {
   margin: 0;
 }
 
+.gray {
+  background-color: var(--background-button-color);
+}
+
 .team {
   display: flex;
   width: 1170px;
